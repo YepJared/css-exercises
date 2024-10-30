@@ -66,12 +66,12 @@ body {
   flex-wrap: wrap;
   padding: 48px;
   gap: 24px;
-  flex: 1;
 }
 
 .content {
   flex-direction: row;
   align-content: stretch;
+  flex: 1;
 }
 
 .sidebar {
